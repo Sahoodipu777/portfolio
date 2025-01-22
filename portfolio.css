@@ -23,7 +23,7 @@ header{
     z-index: 1000;
 }
 .logo{
-    color: white;
+    color: rgb(227, 15, 15);
     font-size: 1.3rem;
     font-weight: 600;
     text-wrap: nowrap;
